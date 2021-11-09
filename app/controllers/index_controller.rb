@@ -4,4 +4,5 @@ class IndexController < ApplicationController
 
   def about_us
   end
+  
 end
